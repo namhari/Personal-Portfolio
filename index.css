@@ -1,0 +1,391 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.curs {
+    font-size: 40px;
+}
+
+.cert {
+    width: 100%;
+}
+
+.cert-icon {
+    width: 40px;
+}
+
+.cert-sec {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    padding-top: 60px;
+}
+
+.icon {
+    color: #ffffff;
+    font-size: 28px;
+    margin: 10px;
+}
+
+.os-image {
+    height: 120px;
+    width: 140px;
+}
+
+.icon-2 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 10px;
+}
+
+.icon-3 {
+    color: #ffffff;
+    font-size: 35px;
+
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.bg-container-1 {
+    background-image: url("https://w0.peakpx.com/wallpaper/786/850/HD-wallpaper-sierra-apple-mac-macos-mountain-os-thumbnail.jpg");
+    background-size: cover;
+    padding: 40px;
+    height: 100%;
+    width: 100%;
+}
+
+.bg-container-2 {
+    background-image: url("https://images.pexels.com/photos/38326/pexels-photo-38326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 150px;
+    width: 100%;
+}
+
+.nav_img {
+    height: 50px;
+    width: 60px;
+    border-radius: 60px;
+    padding: 6px;
+    padding-left: 8px;
+    padding-right: 5px;
+}
+
+.home-img {
+    width: 60%;
+    margin: 50px;
+    border-top-left-radius: 280px;
+    border-top-right-radius: 280px;
+    border-bottom-left-radius: 280px;
+    border-bottom-right-radius: 280px;
+
+}
+
+.home-h1 {
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.home-p {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.home-button {
+    color: #ffffff;
+    font-size: 10px;
+    width: 120px;
+}
+
+.home-button-2 {
+    font-size: 10px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    width: 100px;
+}
+
+.aboutme-bg-container-1 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+.aboutme-bg-container-2 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 80px;
+}
+
+
+.skills-bg-container-2 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    width: 100%;
+    background-size: cover;
+    padding: 20px;
+}
+
+.skills-bg-container-3 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    width: 100%;
+    background-size: cover;
+    padding: 60px;
+    color: #ffffff;
+}
+
+.mss-heading-1 {
+    color: #16123F;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.mss-heading-2 {
+    color: black;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.headingaboutme {
+    color: black;
+    margin-right: 20px;
+    font-weight: 500;
+    text-align: left;
+    font-size: 22px;
+}
+
+.mss-para-1 {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.mss-image {
+    width: 80%;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.skills-card {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.ed-card {
+    background-color: #ffffff;
+    padding: 70px;
+    border-radius: 8px;
+}
+
+.skills-card-title {
+    font-family: "Roboto";
+    color: #303030;
+    font-size: 22px;
+}
+
+.skills-card-image {
+    border-radius: 20px;
+    width: 35%;
+}
+
+.view-button {
+    height: 35px;
+    width: 100px;
+    margin-top: 15px;
+    font-size: 20px;
+    padding: 2.5px;
+}
+
+.bs-bg-container {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 15px;
+    padding-top: 40px;
+}
+
+
+.bs-bg-container-1 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 30px;
+}
+
+.es-bg-container {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 30px;
+    padding-top: 60px;
+
+}
+
+.es-bg-container-1 {
+    background-image: linear-gradient(#ABD699, #75c9b7);
+    background-size: cover;
+    width: 100%;
+    padding: 30px;
+
+}
+
+.bs-head1 {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bs-head2 {
+    color: #959ead;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.bs-head3 {
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.bs-head4 {
+    color: #303030;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.bs-para {
+    color: black;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.bs-link {
+    color: #66ff33;
+    background: cover;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.bs-card {
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+.bs-card-1 {
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.bs-image {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.bs-image-1 {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.bs-button {
+    height: 60px;
+    width: 150px;
+    font-size: 25px;
+}
+
+.wds-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    padding: 20px;
+}
+
+.wds-icon {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+
+.wds-head1 {
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.wds-para {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.fs-bg-container1 {
+    background-color: black;
+    width: 100%;
+    background-size: cover;
+    font-family: "Roboto";
+    padding: 40px;
+}
+
+.fs-bg-container-1 {
+    background-color: black;
+    width: 100%;
+    background-size: cover;
+    font-family: "Roboto";
+    padding: 40px;
+}
+
+.fs-bg-container2 {
+    background-color: #303030;
+    height: 8%;
+    background-size: cover;
+    padding: 5px;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.fs-head {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.fs-icon {
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.fs-icon2 {
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.fs-image {
+    height: 25vh;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.custom-but {
+    background-color: #ffffff;
+    border-color: #ff9f00;
+    border-width: 3px;
+    color: #ff9f00;
+    font-size: 20px;
+}
